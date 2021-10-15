@@ -1,4 +1,4 @@
-##APPLICATIONS of BINARY SEARCH USING C++
+# APPLICATIONS of BINARY SEARCH USING C++
 
 The BinarySearch source code included searching for a target with binary search on rotated and non-rotated arrays.
 It included finding the minimum value in the rotated arrays as well. I incorporated numerous testing arrays and
